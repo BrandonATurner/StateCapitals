@@ -15,8 +15,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
 /**
- *
- * @author andri
+ *  @author Brandon Turner . Date 2022-4-5 . This is a program that reads states and capitals from a file and stores in
+ *  a HashMap to create a guessing game to match states to capitals.
  */
 public class StateCapitalReader {
     
